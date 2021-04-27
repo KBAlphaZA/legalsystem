@@ -7,6 +7,6 @@ namespace LegalSystem.Helpers
 {
     public class Constants
     {
-
+        public const string PaymentCreation = "https://www.payfast.co.za/onsite/process";
     }
 }
